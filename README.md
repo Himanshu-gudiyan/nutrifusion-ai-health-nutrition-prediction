@@ -171,13 +171,50 @@ Interactive Streamlit Dashboard
 
 <h2><a id="how-to-run-this-project"></a>How to Run This Project</h2>
 
+# 🚀 NutriFusion AI Project
+
+## 🏠 Home Page
+![Screenshot](images/Screenshot%202026-06-19%20165235.png)
+
+## 🍽️ Personalized Meal Planning  & Health Profile
+![Screenshot 10](images/Screenshot%202026-06-20%20102652.png)
+
+
+## 🤖 AI Recommendation[
+
+## ❤️ AI Feature Meal planning Prediction
+![Screenshot 2](images/Screenshot%202026-06-19%20165425.png)
+
+
+## 🔥 Food Analysis
+![Screenshot 3](images/Screenshot%202026-06-19%20165605.png)
+
+## ❤️ Health Prediction
+![Screenshot 5](images/Screenshot%202026-06-19%20165744.png)
+]
+## 📊 Nutrition Analytics
+
+![Screenshot 7](images/Screenshot%202026-06-19%20165905.png)
+
+## 📈 ML Predictions  AI Health Score Deashboard
+
+![Screenshot 10](images/Screenshot%202026-06-19%20165925.png)
+
+
+## 🔥 Calorie Prediction
+![Screenshot 9](images/Screenshot%202026-06-19%20165947.png)
+
+
+
+## 🤖 AI Recommendation
+
+
 ### Clone Repository
 
 ```bash
 git clone  https://github.com/Himanshu-gudiyan/nutrifusion-ai-health-nutrition-prediction
 ```
 
-### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
