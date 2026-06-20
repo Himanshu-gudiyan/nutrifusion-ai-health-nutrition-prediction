@@ -2,3 +2,7 @@ streamlit
 google-generativeai
 python-dotenv
 pillow
+joblib
+pandas
+numpy
+scikit-learns
